@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Carlos Alberto Torres Cano</h1>
-<h3 align="center">Student at FIME.</h3>
+<h1 align="center">¡¡Hola!! 👋, soy Carlos Alberto Torres Cano</h1>
+<h3 align="center">Estudiante universitario.</h3>
 
 <br>
 
@@ -12,11 +12,10 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and networks and other programming languages
+- 🌱 Soy un estudiante en la Universidad Autónoma de Nuevo León, en la Facultad Ingeniería Mecánica y Eléctrica. Actualmente estoy cursando mi 6to semestre de universidad y espero terminar mi carrera en 2024.
 
-- 📫 How to reach me **carlostorrestcca@gmail.com**
+- 📫 Contáctame por  **carlostorrestcca@gmail.com**
 
-- ⚡ Fun fact :- Pendiente
 
 <br>
 
@@ -49,12 +48,13 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> </a>
+    rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> 
+    </a>
   
  </p>
-
 <br>
 
 <h3>Statistical Data :-</h3>
