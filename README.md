@@ -14,7 +14,16 @@
 
 - 🌱 Soy un estudiante en la Universidad Autónoma de Nuevo León, en la Facultad Ingeniería Mecánica y Eléctrica. Actualmente estoy cursando mi 6to semestre de universidad y espero terminar mi carrera en 2024.
 
+-Vivo en la ciudad de Monterrey, del estado de Nuevo León de México 
+
+-Estoy aprendiendo Angular y aumentando mis conocimientos en Django.
+
+-Me gusta resolver problemas y verlos reflejados en la vida real.
+
+-Me gutaria orientar mis conocimientos en el desarrollo de backend.
+
 - 📫 Contáctame por  **carlostorrestcca@gmail.com**
+
 
 
 <br>
