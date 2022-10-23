@@ -39,7 +39,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,py,django,java,jquery,nodejs,ts,xd,figma,firebase,androidstudio,tensorflow&perline=4)](https://skillicons.dev)
 
 <br>
 
