@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="[www.linkedin.com/in/carlos-alberto-torres-cano](https://www.linkedin.com/in/carlos-alberto-torres-cano?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3B2AIuG6eUTN2cNZVacdmQcw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile)"><img alt="Linkedin" title="Carlos Torres Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/carlos-alberto-torres-cano"><img alt="Linkedin" title="Carlos Torres Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="carlostorrestcca@gmail.com"><img alt="Gmail" title="Carlos Torres Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
