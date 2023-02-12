@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Soy un estudiante en la Universidad Autónoma de Nuevo León, en la Facultad Ingeniería Mecánica y Eléctrica. Actualmente estoy cursando mi 6to semestre de universidad y espero terminar mi carrera en 2024.
+- 🌱 Soy un estudiante en la Universidad Autónoma de Nuevo León, en la Facultad Ingeniería Mecánica y Eléctrica. Actualmente estoy cursando mi 8vo semestre de universidad y espero terminar mi carrera en 2024.
 
 - Vivo en la ciudad de Monterrey, del estado de Nuevo León de México 
 
