@@ -24,7 +24,6 @@
 
 - 📫 Contáctame por  **carlostorrestcca@gmail.com**
 
--<a href="https://www.bravobikes.cc/">Mi proyeto actual</a>
 
 
 <br>
